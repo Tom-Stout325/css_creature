@@ -1,0 +1,299 @@
+* {
+   margin: 0;
+   padding: 0;
+   background-color: rgb(27, 40, 100);
+   
+}
+.title {
+    color:white;
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 50px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(242, 207, 207), 0 0 5px rgb(184, 184, 241);
+
+}
+.face {
+    width: 450px;
+    height: 350px;
+    border: solid 2px rgb(9, 0, 122);
+    background-color: rgb(105, 194, 241);
+    border-radius: 400px 400px 500px 500px;
+    margin-left: 525px;
+    margin-top: 125px;
+}
+
+.leftEye {
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    margin-left: 640px;
+    margin-top: -300px;
+    border-radius: 50px;
+    background-color: rgb(172, 70, 70);
+}
+
+.leftEye1 {
+    width: 8px;
+    height: 8px;
+    border: solid 1px black;
+    margin-left: 665px;
+    margin-top: -55px;
+    border-radius: 50px;
+    background-color: black;
+
+}
+
+.leftEye2 {
+    width: 50px;
+    height: 50px;
+    margin-left: 656px;
+    margin-top: -21px;
+    border-radius: 50px;
+    background-color: rgb(109, 64, 64);
+
+
+}
+
+.leftEye3 {
+    width: 8px;
+    height: 8px;
+    border: solid 1px black;
+    margin-left: 667px;
+    margin-top: -40px;
+    border-radius: 50px;
+    background-color: black;
+
+}
+.leftEye4 {
+    width: 8px;
+    height: 8px;
+    border: solid 1px black;
+    margin-left: 667px;
+    margin-top: 10px;
+    border-radius: 50px;
+    background-color: black;
+}
+.leftEye5 {
+    width: 8px;
+    height: 8px;
+    border: solid 1px black;
+    margin-left: 685px;
+    margin-top: -30px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.leftEye6 {
+    width: 8px;
+    height: 8px;
+    border: solid 1px black;
+    margin-left: 685px;
+    margin-top: 10px;
+    border-radius: 50px;
+    background-color: black;
+}
+
+.leftEye7 {
+    width: 25px;
+    height: 4px;
+    background-color: #c2afa8;
+    border-radius: 30%;
+    margin-left: 668px;
+    margin-top: -16px;
+    transform: rotate(45deg);
+}
+
+.leftEye8 {
+    width: 25px;
+    height: 4px;
+    background-color: #c2afa8;
+    border-radius: 30%;
+    margin-left: 668px;
+    margin-top: -5px;
+    transform: rotate(135deg);
+}
+
+.rightEye1 {
+        width: 120px;
+        height: 10px;
+        background-color: #e0ce83;
+        border-radius: 30%;
+        margin-left: 775px;
+        margin-top: -10px;
+        transform: rotate(45deg);
+  }
+  
+.rightEye2 {
+        width: 120px;
+        height: 10px;
+        background-color: #e0ce83;
+        border-radius: 30%;
+        margin-left: 775px;
+        margin-top: -10px;
+        transform: rotate(135deg);
+        
+  } 
+    .stitch1 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 785px;
+        margin-top: 30px;
+        transform: rotate(45deg);
+    }
+
+    .stitch2 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 808px;
+        margin-top: -22px;
+        transform: rotate(45deg);
+     }  
+    .stitch3 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 840px;
+        margin-top: -35px;
+        transform: rotate(45deg);
+    }  
+
+    .stitch4 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 855px;
+        margin-top: -16px;
+        transform: rotate(45deg);
+    }
+
+    .stitch5 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 805px;
+        margin-top: 12px;
+        transform: rotate(135deg);
+    }
+
+     .stitch6 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 790px;
+        margin-top: -20px;
+        transform: rotate(135deg);
+     }  
+    
+    .stitch7 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 837px;
+        margin-top: 49px;
+        transform: rotate(135deg);
+    }  
+
+    .stitch8 {
+        width: 25px;
+        height: 2px;
+        background-color: #df7d59;
+        border-radius: 30%;
+        margin-left: 857px;
+        margin-top: 17px;
+        transform: rotate(135deg);
+    }
+
+     .mouth1 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 603px;
+        margin-top: 100px;
+        transform: rotate(135deg);
+   }
+   
+    .mouth2 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 650px;
+        margin-top: -7px;
+        transform: rotate(45deg);
+  } 
+
+    .mouth3 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 695px;
+        margin-top: -8px;
+        transform: rotate(135deg);
+    }
+
+    .mouth4 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 742px;
+        margin-top: -7px;
+        transform: rotate(45deg);
+    } 
+    .mouth5 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 788px;
+        margin-top: -8px;
+        transform: rotate(135deg);
+    }
+
+    .mouth6 {
+        width: 70px;
+        height: 8px;
+        background-color: #030b7a;
+        border-radius: 30%;
+        margin-left: 834px;
+        margin-top: -8px;
+        transform: rotate(45deg);
+    } 
+
+ .leftLeg {
+    width: 125px;
+    height: 400px;
+    border-right: solid 2px rgb(40, 33, 141);
+    border-left:  solid 2px rgb(40, 33, 141);
+    border-bottom: solid 2px rgb(40, 33, 141);
+    background-color: rgb(105, 194, 241);
+    border-radius: 90px 50px 300px 500px;
+    margin-left: 575px;
+    margin-top: 93px;
+    transform: rotate(12deg);
+}
+ .rightLeg {
+    width: 125px;
+    height: 400px;
+    border-right: solid 2px rgb(40, 33, 141);
+    border-left:  solid 2px rgb(40, 33, 141);
+    border-bottom: solid 2px rgb(40, 33, 141);
+    background-color: rgb(105, 194, 241);
+    border-radius: 80px 40px 400px 300px;
+    margin-left: 810px;
+    margin-top: -405px;
+    transform: rotate(348deg);
+} 
